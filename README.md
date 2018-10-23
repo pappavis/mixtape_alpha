@@ -7,7 +7,7 @@ Gebruiksinstruksies:<br/>
 2. Laai die Schema bestand in Eagle en bekyk dit.<br/>
 <br/>
 # Printplaat laat maak?<br/>
-Om self printplate te laat maak, upload die GERBERs mixtape2_gerber.zip na 'n diens soos gttp://JLCPCB.com of dirtypcbs.com<br/>
+Om self printplate te laat maak, upload die GERBERs mixtape2_gerber.zip na 'n diens soos http://JLCPCB.com of http://dirtypcbs.com<br/>
 <br/>
 
 # CREDITS:
