@@ -1,5 +1,5 @@
 # Wat is Mixtape Alpha?
-MixTape Alpga is 'n Atmel328P (Arduino) gebasseerd aanraakgevoelig synth.  Die projekbestande omvat schema bestand vir EageleCAD en diebronkode om dit te laat werk. <br/>
+MixTape Alpga is 'n Atmel328P (Arduino) gebasseerd aanraakgevoelig synth.  Die projekbestande omvat schema bestand vir EagleCAD en diebronkode om dit te laat werk. <br/>
 <img src="https://github.com/pappavis/mixtape_alpha/blob/master/plaatjes/mixtape-alpha-cover_jpg_project-tile-pad.jpg?raw=true" width="90%" height="90%">
 <br/>
 
