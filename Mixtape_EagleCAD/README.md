@@ -4,3 +4,7 @@
 ## Printplaat boven
 <img src="https://github.com/pappavis/mixtape_alpha/blob/master/plaatjes/mixtape-alpha-printplaat_boven.png?raw=true"> <br/>
 <br/>
+
+## Printplaat onder
+<img src="https://github.com/pappavis/mixtape_alpha/blob/master/plaatjes/mixtape-alpha-printplaat_onder.png?raw=true">
+<br>
