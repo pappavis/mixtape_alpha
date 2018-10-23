@@ -3,7 +3,7 @@ MixTape Alpga is 'n Atmel328P (Arduino) gebasseerd aanraakgevoelig synth.  Die p
 <img src="https://github.com/pappavis/mixtape_alpha/blob/master/plaatjes/mixtape-alpha-cover_jpg_project-tile-pad.jpg?raw=true" width="50%" height="50%">
 <br/>
 Gebruiksinstruksies:<br/>
-1. Download EageleCAD<br/>
+1. Download EagleCAD<br/>
 2. Laai die Schema bestand in Eagle en bekyk dit.<br/>
 <br/>
 # Printplaat laat maak?<br/>
