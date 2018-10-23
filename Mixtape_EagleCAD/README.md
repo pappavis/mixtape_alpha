@@ -11,3 +11,7 @@ Dit is die bronbestanden vir EagleCAD en gerbers om by http://jlcpcb.com te laat
 ## Printplaat onder
 <img src="https://github.com/pappavis/mixtape_alpha/blob/master/plaatjes/mixtape-alpha-printplaat_onder.png?raw=true">
 <br>
+
+## Dokumentasie
+sien wiki op http://wiki.openmusiclabs.com/wiki/MixtapeAlpha <br/>
+en algemeen info op http://www.openmusiclabs.com/projects/mixtape_alpha/ <br/>
