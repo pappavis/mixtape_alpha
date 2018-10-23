@@ -1,3 +1,6 @@
+## Wat is dit
+Dit is die bronbestanden om by http://jlcpcb.com te laat maak.
+
 ## Schema
 <img src="https://github.com/pappavis/mixtape_alpha/blob/master/Mixtape_EagleCAD/mixtape2_sch.png?raw=true"><br/>
 <br/>
