@@ -10,7 +10,7 @@ Gebruiksinstruksies:<br/>
 Om self printplate te laat maak, upload die GERBERs mixtape2_gerber.zip na 'n diens soos http://JLCPCB.com of http://dirtypcbs.com<br/>
 <br/>
 
-<img src="https://github.com/pappavis/mixtape_alpha/blob/master/mixtape_alpha_instructions.png?raw=true"><br/>
+<img src="https://github.com/pappavis/mixtape_alpha/blob/master/Mixtape_EagleCAD/mixtape_alpha_instructions.png?raw=true" width="40%" height="40%"><br/>
 <br/>
 
 # CREDITS:
