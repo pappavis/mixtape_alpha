@@ -1,0 +1,114 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>C:\Documents and Settings\user\Desktop\mixtape_avr</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328pdef.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape_defs.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\sine_2k.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\saw_low_2k.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\square_low_2k.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\noise_2k.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\sine_128.inc</FILE>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\slider_16.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>107</LINE></init>
+  <wakeup><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>1044</LINE></wakeup>
+  <t2int_led><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>917</LINE></t2int_led>
+  <t2int_lfo><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>714</LINE></t2int_lfo>
+  <t1int><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>709</LINE></t1int>
+  <t0int><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>703</LINE></t0int>
+  <start><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>115</LINE></start>
+  <main><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>324</LINE></main>
+  <pad2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>327</LINE></pad2>
+  <pad1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>389</LINE></pad1>
+  <synth_effect_state><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>337</LINE></synth_effect_state>
+  <synth_voice_state><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>363</LINE></synth_voice_state>
+  <checknote><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>411</LINE></checknote>
+  <pad1_check><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>394</LINE></pad1_check>
+  <writenote><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>503</LINE></writenote>
+  <checknote1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>447</LINE></checknote1>
+  <write_check2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>423</LINE></write_check2>
+  <playnote><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>1021</LINE></playnote>
+  <play_new_note><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>456</LINE></play_new_note>
+  <led_update><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>590</LINE></led_update>
+  <load_note><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>470</LINE></load_note>
+  <playnote_done><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>488</LINE></playnote_done>
+  <reset_pointer><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>497</LINE></reset_pointer>
+  <write_check><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>526</LINE></write_check>
+  <write_repeat><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>521</LINE></write_repeat>
+  <write_check1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>537</LINE></write_check1>
+  <writenote_done><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>582</LINE></writenote_done>
+  <loadbits><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>544</LINE></loadbits>
+  <backindex_clear><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>553</LINE></backindex_clear>
+  <interrupt_wait><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>631</LINE></interrupt_wait>
+  <blink_on><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>603</LINE></blink_on>
+  <blink_done><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>626</LINE></blink_done>
+  <blink_on_alt><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>616</LINE></blink_on_alt>
+  <button_averaging_setup><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>644</LINE></button_averaging_setup>
+  <button_averaging><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>650</LINE></button_averaging>
+  <button_threshold><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>659</LINE></button_threshold>
+  <load_zero><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>665</LINE></load_zero>
+  <adc_clear><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>697</LINE></adc_clear>
+  <play2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>30</LINE></play2>
+  <play3><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>46</LINE></play3>
+  <play4><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>62</LINE></play4>
+  <play5><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>78</LINE></play5>
+  <effect1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>92</LINE></effect1>
+  <effect2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>103</LINE></effect2>
+  <effect3><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>122</LINE></effect3>
+  <sendout><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\playback.inc</FILE><LINE>131</LINE></sendout>
+  <envelopes><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>740</LINE></envelopes>
+  <note2_envelope><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>782</LINE></note2_envelope>
+  <note1_start><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>764</LINE></note1_start>
+  <note1_rising><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>771</LINE></note1_rising>
+  <note3_envelope><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>823</LINE></note3_envelope>
+  <note2_start><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>804</LINE></note2_start>
+  <note2_rising><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>811</LINE></note2_rising>
+  <note4_envelope><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>863</LINE></note4_envelope>
+  <note3_start><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>845</LINE></note3_start>
+  <note3_rising><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>852</LINE></note3_rising>
+  <envelope_done><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>903</LINE></envelope_done>
+  <note4_start><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>885</LINE></note4_start>
+  <note4_rising><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>892</LINE></note4_rising>
+  <t2_int_done><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>908</LINE></t2_int_done>
+  <lfo_calculate><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>947</LINE></lfo_calculate>
+  <led1_check><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>1003</LINE></led1_check>
+  <led2_flip><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>976</LINE></led2_flip>
+  <led1_flip><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>989</LINE></led1_flip>
+  <playnote4><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>250</LINE></playnote4>
+  <playnote3><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>226</LINE></playnote3>
+  <playnote2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>202</LINE></playnote2>
+  <playnote1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>178</LINE></playnote1>
+  <note3check><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>27</LINE></note3check>
+  <note2check><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>34</LINE></note2check>
+  <note1check><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>41</LINE></note1check>
+  <notecomp><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>48</LINE></notecomp>
+  <note3low><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>61</LINE></note3low>
+  <note2low><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>70</LINE></note2low>
+  <stealnote1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>82</LINE></stealnote1>
+  <stealnote4><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>154</LINE></stealnote4>
+  <note1high><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>76</LINE></note1high>
+  <stealnote3><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>130</LINE></stealnote3>
+  <stealnote2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\note_scheduler.asm</FILE><LINE>106</LINE></stealnote2>
+  <loop2><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>1048</LINE></loop2>
+  <loop1><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>1052</LINE></loop1>
+  <sleepstate><FILE>C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm</FILE><LINE>1080</LINE></sleepstate>
+ </LABELS>
+</ASSEMBLER_INFO>

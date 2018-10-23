@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Documents and Settings\user\Desktop\mixtape_avr\labels.tmp" -fI -W+ie -C V2E -o "C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.hex" -d "C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.obj" -e "C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.eep" -m "C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.map" "C:\Documents and Settings\user\Desktop\mixtape_avr\mixtape.asm"
