@@ -1,0 +1,58 @@
+Partlist
+
+Exported from mixtape2.brd at 11-9-2019 18:00
+
+EAGLE Version 9.0.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                  Package               Library  Position (inch)       Orientation
+
+1        RED                    LED-SMT-91-21         audioint (1.405 1.835)         R180
+2        RED                    LED-SMT-91-21         audioint (0.845 1.835)         R180
+3        RED                    LED-SMT-91-21         audioint (0.565 1.348)         R270
+4        RED                    LED-SMT-91-21         audioint (0.845 0.865)         R0
+5        RED                    LED-SMT-91-21         audioint (1.405 0.865)         R0
+6        RED                    LED-SMT-91-21         audioint (1.685 1.35)          R90
+7        RED                    LED-SMT-91-21         audioint (2.18 0.87)           R270
+8        RED                    LED-SMT-91-21         audioint (2.6 0.87)            R270
+9        RED                    LED-SMT-91-21         audioint (3.03 0.87)           R270
+10       RED                    LED-SMT-91-21         audioint (3.46 0.87)           R270
+11       RED                    LED-SMT-91-21         audioint (3.03 1.83)           R90
+BH1      CR2032 BK-912          BAT-HOLD-BK-912       audioint (1.975 2.08)          R180
+C1       10uF                   0805/SMALL            audioint (2.26 1.655)          R180
+C2       10uF                   0805/SMALL            audioint (3.16 2.375)          R180
+C3       .1uF                   0603-SM               audioint (2.24 1.135)          R0
+C4       .1uF                   0603-SM               audioint (2.585 1.08)          R0
+C5       .1uF                   0603-SM               audioint (3.21 2.1)            R270
+ISP      SMT/PEG                JMP/6P/DIP/SMT/PEG    audioint (3.275 1.35)          R270
+J2       1/8"JACK               1/8"JACK/STEREO/SMT   audioint (3.635 2.385)         R0
+R1       100                    0603-SM               audioint (3.21 2.24)           R270
+R2       10k                    0603-SM               audioint (3.285 2.24)          R270
+R3       10k                    0603-SM               audioint (3.285 2.375)         R270
+R4       10k                    0603-SM               audioint (1.115 0.535)         R0
+R5       10k                    0603-SM               audioint (1.545 0.535)         R0
+R6       10k                    0603-SM               audioint (1.975 0.535)         R0
+R7       10k                    0603-SM               audioint (2.405 0.535)         R0
+R8       10k                    0603-SM               audioint (2.835 0.535)         R0
+R9       10k                    0603-SM               audioint (2.54 1.53)           R90
+R10      22M                    0603-SM               audioint (2.285 0.98)          R90
+R11      22M                    0603-SM               audioint (2.355 0.98)          R90
+R12      22M                    0603-SM               audioint (2.425 0.98)          R90
+R13      22M                    0603-SM               audioint (2.495 0.98)          R90
+R14      22M                    0603-SM               audioint (2.475 1.19)          R90
+R15      22M                    0603-SM               audioint (2.535 1.19)          R90
+R16      22M                    0603-SM               audioint (2.49 1.63)           R180
+R17      100                    0603-SM               audioint (2.115 1.62)          R180
+R18      22M                    0603-SM               audioint (2.195 1.07)          R0
+S1       JS102011               SWITCH/SLIDE/JS102011 audioint (0.155 1.875)         R270
+U$1      PAD/TOUCH/WHEEL        PAD/TOUCH/WHEEL       audioint (1.125 1.35)          MR0
+U$2      PAD/TOUCH              PAD/TOUCH/DOT         audioint (2.18 0.87)           MR0
+U$3      PAD/TOUCH              PAD/TOUCH/DOT         audioint (2.6 0.87)            MR0
+U$4      PAD/TOUCH              PAD/TOUCH/DOT         audioint (3.03 0.87)           MR0
+U$5      PAD/TOUCH              PAD/TOUCH/DOT         audioint (3.46 0.87)           MR0
+U$6      PAD/TOUCH              PAD/TOUCH/DOT         audioint (3.03 1.83)           MR180
+U$7      PAD/TOUCH              PAD/TOUCH/DOT         audioint (2.6 1.83)            MR180
+U$8      PAD/TOUCH              PAD/TOUCH/DOT         audioint (0.27 2.23)           MR0
+U$9      PAD/TOUCH/SLIDERSLIDER PAD/TOUCH/SLIDER      audioint (1.975 0.265)         MR0
+U1       ATMEGA328P             32-TQFP-NOMOD         audioint (2.23 1.38)           R270
